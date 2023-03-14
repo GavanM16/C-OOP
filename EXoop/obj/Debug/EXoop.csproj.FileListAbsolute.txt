@@ -1,0 +1,8 @@
+C:\Users\mihai.gavan\source\repos\EXoop\EXoop\bin\Debug\EXoop.exe.config
+C:\Users\mihai.gavan\source\repos\EXoop\EXoop\bin\Debug\EXoop.exe
+C:\Users\mihai.gavan\source\repos\EXoop\EXoop\bin\Debug\EXoop.pdb
+C:\Users\mihai.gavan\source\repos\EXoop\EXoop\obj\Debug\EXoop.csproj.AssemblyReference.cache
+C:\Users\mihai.gavan\source\repos\EXoop\EXoop\obj\Debug\EXoop.csproj.SuggestedBindingRedirects.cache
+C:\Users\mihai.gavan\source\repos\EXoop\EXoop\obj\Debug\EXoop.csproj.CoreCompileInputs.cache
+C:\Users\mihai.gavan\source\repos\EXoop\EXoop\obj\Debug\EXoop.exe
+C:\Users\mihai.gavan\source\repos\EXoop\EXoop\obj\Debug\EXoop.pdb
